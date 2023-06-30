@@ -1,0 +1,12 @@
+name: cobanov
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.8
+  - pytorch=1.8
+  - torchvision
+  - jupyterlab
+  - scikit-learn
+  # Add any other dependencies or packages you need
